@@ -1,0 +1,92 @@
+{
+  "gold": [
+    "00_00_00.066667",
+    "00_00_14.966667",
+    "00_00_20.433334",
+    "00_00_22.433334"
+  ],
+  "paired": [
+    {
+      "probe": "00_00_00.066667.png",
+      "gold": "00_00_00.066667",
+      "similarity": 96.09
+    },
+    {
+      "probe": "00_00_15.000000.png",
+      "gold": "00_00_14.966667",
+      "similarity": 93.18
+    },
+    {
+      "probe": "00_00_22.433334.png",
+      "gold": "00_00_22.433334",
+      "similarity": 94.38
+    },
+    {
+      "probe": "00_00_24.766667.png",
+      "gold": "00_00_22.433334",
+      "similarity": 86.59
+    }
+  ],
+  "unpaired": [
+    {
+      "probe": "00_00_01.366667.png",
+      "class": "balloon",
+      "similarity": 28.02
+    },
+    {
+      "probe": "00_00_02.366667.png",
+      "class": "web site, website, internet site, site",
+      "similarity": 28.0
+    },
+    {
+      "probe": "00_00_02.866667.png",
+      "class": "balloon",
+      "similarity": 28.22
+    },
+    {
+      "probe": "00_00_03.866667.png",
+      "class": "scoreboard",
+      "similarity": 30.31
+    },
+    {
+      "probe": "00_00_04.433334.png",
+      "class": "balloon",
+      "similarity": 28.12
+    },
+    {
+      "probe": "00_00_05.433334.png",
+      "class": "web site, website, internet site, site",
+      "similarity": 33.99
+    },
+    {
+      "probe": "00_00_07.433334.png",
+      "class": "balloon",
+      "similarity": 28.39
+    },
+    {
+      "probe": "00_00_08.433334.png",
+      "class": "web site, website, internet site, site",
+      "similarity": 31.62
+    },
+    {
+      "probe": "00_00_14.000000.png",
+      "class": "balloon",
+      "similarity": 28.49
+    },
+    {
+      "probe": "00_00_19.766667.png",
+      "class": "balloon",
+      "similarity": 28.25
+    },
+    {
+      "probe": "00_00_20.766667.png",
+      "class": "scoreboard",
+      "similarity": 22.96
+    },
+    {
+      "probe": "00_00_23.766667.png",
+      "class": "balloon",
+      "similarity": 28.18
+    }
+  ]
+}

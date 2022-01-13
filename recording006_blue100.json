@@ -1,0 +1,57 @@
+{
+  "gold": [
+    "00_00_00.066667",
+    "00_00_14.966667",
+    "00_00_20.433334",
+    "00_00_22.433334"
+  ],
+  "paired": [
+    {
+      "probe": "00_00_00.066667.png",
+      "gold": "00_00_00.066667",
+      "similarity": 100.0
+    },
+    {
+      "probe": "00_00_14.966667.png",
+      "gold": "00_00_14.966667",
+      "similarity": 95.17
+    },
+    {
+      "probe": "00_00_20.433334.png",
+      "gold": "00_00_20.433334",
+      "similarity": 96.6
+    },
+    {
+      "probe": "00_00_22.433334.png",
+      "gold": "00_00_22.433334",
+      "similarity": 100.0
+    }
+  ],
+  "unpaired": [
+    {
+      "probe": "00_00_03.300000.png",
+      "class": "monochrome",
+      "similarity": 100.0
+    },
+    {
+      "probe": "00_00_04.366667.png",
+      "class": "monochrome",
+      "similarity": 100.0
+    },
+    {
+      "probe": "00_00_08.100000.png",
+      "class": "monochrome",
+      "similarity": 100.0
+    },
+    {
+      "probe": "00_00_09.800000.png",
+      "class": "monochrome",
+      "similarity": 100.0
+    },
+    {
+      "probe": "00_00_15.766667.png",
+      "class": "monochrome",
+      "similarity": 100.0
+    }
+  ]
+}
